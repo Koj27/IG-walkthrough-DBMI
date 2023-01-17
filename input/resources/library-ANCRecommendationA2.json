@@ -1,8 +1,8 @@
 {
   "resourceType": "Library",
-  "id": "ANCRecommendationA2",
-  "name": "ANCRecommendationA2",
-  "title": "WHO Antenatal Care Guidelines Recommendation A2 Logic",
+  "id": "Warfarin_NSAIDs_CDS",
+  "name": "Warfarin_NSAIDs_CDS",
+  "title": "Warfarin and NSAIDs example CDS Logic",
   "status": "active",
   "experimental": true,
   "type": {
@@ -15,7 +15,7 @@
   },
   "content": [
     {
-      "id": "ig-loader-ANCRecommendationA2.cql"
+      "id": "ig-loader-Warfarin_NSAIDs_CDS.cql"
     }
   ]
 }
