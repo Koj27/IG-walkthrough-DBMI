@@ -1,7 +1,7 @@
 {
   "resourceType": "Library",
-  "id": "Warfarin_NSAIDs_CDS",
-  "name": "Warfarin_NSAIDs_CDS",
+  "id": "WarfarinNSAIDsCDS",
+  "name": "WarfarinNSAIDsCDS",
   "title": "Warfarin and NSAIDs example CDS Logic",
   "status": "active",
   "experimental": true,
@@ -15,7 +15,7 @@
   },
   "content": [
     {
-      "id": "ig-loader-Warfarin_NSAIDs_CDS.cql"
+      "id": "ig-loader-WarfarinNSAIDsCDS.cql"
     }
   ]
 }
