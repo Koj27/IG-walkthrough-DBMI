@@ -1,18 +1,18 @@
 {
     "resourceType": "MedicationStatement",
-    "id": "14707",
+    "id": "patient-with-ppi-diclofenac",
     "status": "active",
     "medicationCodeableConcept": {
       "coding": [
         {
           "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
           "code": "855664",
-          "display": "diclofenac sodium 25 MG Delayed Release Oral Tablet"
+          "display": "Diclofenac Sodium 25 MG Delayed Release Oral Tablet"
         }
       ]
     },
     "subject": {
-      "reference": "Patient/14706"
+      "reference": "Patient/patient-with-ppi"
     },
     "effectivePeriod": {
       "start": "2022-12-17T23:59:59+06:00",
