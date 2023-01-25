@@ -9381,7 +9381,7 @@
         <contact>
           <name value="Richard Boyce boycerd@upmc.edu" />
         </contact>
-        <description value="ValueSet of ValueSets containing drug identifiers for each member in the     Established Pharmacologic Class (EPC) Nonsteroidal Anti-inflammatory Drug class (id: N0000175722).     Member by RxNorm: getRelatedByType (BN,BPCK,GPCK,IN,MIN,PIN,SBD,SBDC,SBDF,SBDG,SCD,SCDC,SCDF,SCDG)" />
+        <description value="ValueSet of ValueSets containing drug identifiers for each member in the Established Pharmacologic Class (EPC) Nonsteroidal Anti-inflammatory Drug class (id: N0000175722).     Member by RxNorm: getRelatedByType (BN,BPCK,GPCK,IN,MIN,PIN,SBD,SBDC,SBDF,SBDG,SCD,SCDC,SCDF,SCDG)" />
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166" />
