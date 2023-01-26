@@ -1,4 +1,4 @@
-{
+{ 
     "resourceType": "MedicationStatement",
     "id": "patient-with-wardic-diclofenac",
     "status": "active",

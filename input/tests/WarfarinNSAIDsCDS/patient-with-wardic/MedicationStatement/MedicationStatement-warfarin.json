@@ -1,4 +1,4 @@
-{
+{ 
     "resourceType": "MedicationStatement",
     "id": "patient-with-wardic-warfarin",
     "status": "active",
