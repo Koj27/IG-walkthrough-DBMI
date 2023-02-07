@@ -1,4 +1,4 @@
-<ValueSet>  
+<ValueSet xmlns="http://hl7.org/fhir">
         <url value="http://hl7.org/fhir/ig/PDDI-CDS/ValueSet/valueset-PPIS" />
         <id value="valueset-PPIS" />
         <version value="US 1.0" />
