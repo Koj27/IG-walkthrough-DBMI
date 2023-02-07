@@ -191,7 +191,8 @@ define "Get Card 3 Summary":
     + ' (patient is ' + ToString(AgeInYears()) + ' years old. GI condition on record: '
     + GetCodeNames("GI Bleeds Condition")
     + ').' 
-  else 'Patient is not 65 y/o and does not have a history of upper gastrointestinal bleed.'
+    else 'Patient is not 65 y/o and does not have a history of upper gastrointestinal bleed.'
+ 
 
 define "Get Card 3 Detail":
   'Patients with a history of UGIB or peptic ulcer may have an increased risk of UGIB from this interaction. The extent to which older age is an independent risk factor for UGIB due to these interactions is not firmly established, but UGIB in general is known to increase with age.'
@@ -205,8 +206,8 @@ define "Get Card 3 Label":
 
 
 define "Age > 65 years or Hx UGIB":
-   "GI Bleeds Condition" is not null
-   or
+   // "GI Bleeds Condition" is not null
+   // or
    AgeInYears() > 65
 
 define "GI Bleeds Condition":
